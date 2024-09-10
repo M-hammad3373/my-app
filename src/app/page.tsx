@@ -1,10 +1,15 @@
 import React from 'react'
+import images from "@/images/myImage.jpg";
+ 
 
 
     const page = () => {
 
     return (
-        <div> Home </div>
+        
+        
+        <div> Home 
+             <img src="myImage.jpg" alt="myImage" width="384" height="512"/> </div>
     )
 }
 

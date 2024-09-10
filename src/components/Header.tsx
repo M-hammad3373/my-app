@@ -15,6 +15,8 @@ function Header(props: Props) {
           <Link href="about"> about us</Link>
           <Link href="blog"> blog </Link>
           <Link href="contact"> contact us </Link>
+        
+
         </div>
     )
 }
